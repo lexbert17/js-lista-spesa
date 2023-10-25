@@ -5,4 +5,6 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 ##Soluzione
 Creo un array di spese
 ricerco l'elemento all' interno dell' array
-stampare con ciclo while in pagina
+
+**output**
+stampo il ciclo sulla pagina
